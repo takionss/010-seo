@@ -42,11 +42,11 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 검색 최적화 가이드"
-  en: "Smiles Life - Search Optimization Guide"
-  ja: "Smiles Life - 検索最適化ガイド"
-  zh-TW: "Smiles Life - 搜索优化指南"
-  es: "Smiles Life - Guía de optimización de búsqueda"
+  ko: "검색 최적화 가이드"
+  en: "Search Optimization Guide"
+  ja: "検索最適化ガイド"
+  zh-TW: "搜索优化指南"
+  es: "Guía de optimización de búsqueda"
 
 descriptions:
   ko: "Smiles Life의 검색엔진 최적화 및 웹사이트 트래픽 확보하기"
